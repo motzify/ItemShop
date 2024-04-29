@@ -1,4 +1,4 @@
-CID_424_Athena_Commando_M_Vigilante, 1500
+Pickaxe_ID_376_FNCS, 1500
 CID_423_Athena_Commando_F_Painter, 1500
 EID_BasketballV2, 500
 na
