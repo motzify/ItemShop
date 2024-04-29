@@ -1,7 +1,7 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_586_Athena_Commando_F_PunkDevil"],
+    "itemGrants": ["Athenapickaxe:Pickaxe_ID_376_FNCS"],
     "price": 1200
   },
   "daily2": {
